@@ -1,4 +1,4 @@
-# This is a blocklist to block smart tv's 
+# This is an another blocklist to block smart tv's sending data
 # Based on Perflyst SmartTV.txt , modified for european devices, thanks 4 Perflyst
 
 
