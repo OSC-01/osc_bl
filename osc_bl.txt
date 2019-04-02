@@ -63,8 +63,6 @@ de.lgtvsdp.com
 de.rdx2.lgtvsdp.com
 
 
-
-
 # philips
 deviceportal.nettvservices.com
 epg.corio.com
@@ -158,6 +156,7 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 
+
 # HBBTV
 cdn.hbbtv.smartclip.net
 hbbtv-1.eurosport.com
@@ -177,6 +176,7 @@ hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
 scheduler.hbbtv.smartclip.net
 stats.hbbtv.smartclip.net
+hbbtv.ardmediathek.de
 
 
 # Other useless connections from Smart-TV
@@ -214,15 +214,19 @@ ichnaea.netflix.com
 customerevents.netflix.com
 nrdp.nccp.netflix.com
 
+
 # Spotify
 api-tv.spotify.com
+
 
 # Hulu
 api.distribution.hulu.com
 
+
 # Sharp Smart TV using Opera OS (thanks to sml156)
 # time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
 # api.accuweather.com                  # probably not a good idea to block this one
+
 
 # These may be needed for software/firmware updates, not sure if it's one or both but the first one tries thousands of times a day to connect.
 api.us.hismarttv.com
