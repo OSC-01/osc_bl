@@ -54,6 +54,8 @@ yumenetworks.com
 smartclip.com
 smartclip.net
 lgsmartad.com
+lgtvonline.lge.com
+snu.lge.com
 
 
 # LG German
