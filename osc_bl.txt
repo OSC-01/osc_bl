@@ -66,6 +66,14 @@ de.lgtvsdp.com
 de.rdx2.lgtvsdp.com
 
 
+# LG Hungary
+hu.ad.lgsmartad.com
+hu.ibs.lgappstv.com
+hu.info.lgsmartad.com
+hu.lgtvsdp.com
+hu.rdx2.lgtvsdp.com
+
+
 # philips
 deviceportal.nettvservices.com
 epg.corio.com
