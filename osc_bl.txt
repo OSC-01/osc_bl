@@ -19,7 +19,7 @@ usage-eu-fy2015.myhomescreen.tv
 usage-eu-fy2017.myhomescreen.tv
 usage-us-fy2015.myhomescreen.tv
 usage-us-fy2017.myhomescreen.tv
-#vcs.vdspf.com  // if blocked, notified of new firmware but unable to download/install
+vcs.vdspf.com  // if blocked, notified of new firmware but unable to download/install
 x2.vindicosuite.com
 
 
@@ -157,7 +157,7 @@ sso.internetat.tv
 syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
-#time.samsungcloudsolution.com // if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
+time.samsungcloudsolution.com // if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
 upu.samsungelectronics.com
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
@@ -239,8 +239,8 @@ api.distribution.hulu.com
 
 
 # Sharp Smart TV using Opera OS (thanks to sml156)
-# time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
-# api.accuweather.com                  # probably not a good idea to block this one
+time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
+api.accuweather.com                  # probably not a good idea to block this one
 
 
 # These may be needed for software/firmware updates, not sure if it's one or both but the first one tries thousands of times a day to connect.
