@@ -188,6 +188,7 @@ hbbtvapp.sonnenklar.tv
 scheduler.hbbtv.smartclip.net
 stats.hbbtv.smartclip.net
 hbbtv.ardmediathek.de
+itv.ard.de
 hbbtv.superrtl.de
 p-hbbtv.superrtl.de
 hbbtv.3sat.de
