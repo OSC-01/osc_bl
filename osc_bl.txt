@@ -56,6 +56,7 @@ smartclip.net
 lgsmartad.com
 lgtvonline.lge.com
 snu.lge.com
+aic-ngfts.lge.com
 
 
 # LG German
@@ -131,7 +132,9 @@ openapi.samsung.com
 osb-apps.samsungqbe.com
 osb-krsvc.samsungqbe.com
 osb-eusvc.samsungqbe.com
+otn.samsungcloudcdn.com
 osb.samsungqbe.com
+osb-ussvc.samsungqbe.com
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
 otnprd8.samsungcloudsolution.net
