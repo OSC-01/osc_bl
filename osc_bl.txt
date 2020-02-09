@@ -2,7 +2,7 @@
 # Based on Perflyst SmartTV.txt , modified for european devices, thanks 4 Perflyst
 
 
-# panasonic viera
+# Panasonic Viera
 0077777700140002.myhomescreen.tv
 cert-test.sandbox.google.com
 collect-eu-fy2015.myhomescreen.tv
@@ -23,20 +23,21 @@ vcs.vdspf.com  // if blocked, notified of new firmware but unable to download/in
 x2.vindicosuite.com
 
 
-# sony bavaria
-# needed for applications
-# needed for applications, if blocked error "no internet connection"
+# Sony Bavaria
 #applicast.ga.sony.net
 #portal.store.sonyentertainmentnetwork.com
 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 api-mf1.meta.ndmdhs.com
 b02.black.ndmdhs.com
+bdcore-apr-lb.bda.ndmdhs.com
 bravia.dl.playstation.net
 call.me.sel.sony.com
+facemap.foldlife.net
 flingo.tv
 sonybivstatic-a.akamaihd.net
 ssm1.internet.sony.tv
+static-cdn.jtvnw.net
 
 
 # LG
@@ -75,7 +76,7 @@ hu.lgtvsdp.com
 hu.rdx2.lgtvsdp.com
 
 
-# philips
+# Philips
 deviceportal.nettvservices.com
 epg.corio.com
 legacyportal.nettvservices.com
