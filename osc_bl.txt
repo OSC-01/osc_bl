@@ -38,7 +38,7 @@ lgsmartad.com
 lgtvonline.lge.com
 snu.lge.com
 aic-ngfts.lge.com
-ueiwsp.com
+www.ueiwsp.com
 
 # LG German
 de.ad.lgsmartad.com
