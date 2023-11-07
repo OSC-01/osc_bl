@@ -37,7 +37,9 @@ smartclip.net
 lgsmartad.com
 lgtvonline.lge.com
 snu.lge.com
+eic.lgtviot.com
 aic-ngfts.lge.com
+discovery.meethue.com
 www.ueiwsp.com
 
 # LG German
