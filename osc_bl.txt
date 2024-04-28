@@ -35,7 +35,7 @@ yumenetworks.com
 smartclip.com
 smartclip.net
 lgsmartad.com
-lgtvonline.lge.com
+#lgtvonline.lge.com
 snu.lge.com
 eic.lgtviot.com
 aic-ngfts.lge.com
